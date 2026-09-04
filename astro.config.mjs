@@ -7,7 +7,8 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://teluis.com',
+	site: 'https://teluis5.github.io',
+	base: '/teluis-japan',
 	integrations: [mdx(), sitemap(), icon()],
 	fonts: [
 		{

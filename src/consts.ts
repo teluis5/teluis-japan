@@ -1,2 +1,2 @@
-﻿export const SITE_TITLE = 'DeepJapan';
-export const SITE_DESCRIPTION = 'Discovering the unseen side of Japan.';
+﻿export const SITE_TITLE = 'Deep Japan';
+export const SITE_DESCRIPTION = 'Discovering the unseen beauty and culture of Japan.';
