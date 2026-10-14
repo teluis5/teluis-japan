@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Welcome to Deep Japan'
 description: 'Exploring the hidden gems of Japanese culture, technology, and lifestyle.'
 pubDate: '2026-09-04'
